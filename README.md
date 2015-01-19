@@ -1,5 +1,6 @@
 # simple-spring-mongodb
 
+0. Need to install Java 7+ 
 1. Install MongoDB (https://www.mongodb.org/downloads)
   * Add mongo/bin folder to PATH variable
 2. Install Maven 3.2.5  (http://maven.apache.org/download.cgi)
